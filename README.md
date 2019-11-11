@@ -1,5 +1,5 @@
 # Chimera-Battery-Mod
-This is a mod designed to add a convenient battery holder and power switch to the Egro 42 wireless keyboard, as well as other chimera boards with screw posts separated 33mm. The below pictures establish both the orientation of the battery tray on the mod and of the mod on the keyboard. If it doesn't work after you install it, try rotating the mod 180*.
+This is a mod designed to add a convenient battery holder and power switch to the redesigned Chimera keyboards made by GlenPickle with screw posts separated 33mm. The below pictures establish both the orientation of the battery tray on the mod and of the mod on the keyboard. If it doesn't work after you install it, try rotating the mod 180*.
 
 Battery Holder: BU2032SM-JJ-GTR  
 Switch: JS202011SCQN  
